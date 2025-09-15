@@ -38,12 +38,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RifaAmrilSahputra&show_icons=true&theme=radical&hide_border=true" alt="stats" height="165"/>
-</p>
 
 ---
 
