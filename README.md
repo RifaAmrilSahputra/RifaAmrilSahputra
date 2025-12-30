@@ -52,12 +52,56 @@
 ## 📊 GitHub Contribution 3D
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="800"/>
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="800"/>
 </p>
 
-> Visualisasi 3D kontribusi GitHub yang diperbarui otomatis setiap hari menggunakan GitHub Actions.
+<!-- ===============================
+     Alternative 3D Contribution Styles
+     (Uncomment to use)
+================================ -->
 
----
+<!-- 🌈 Night Rainbow -->
+<!--
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="800"/>
+</p>
+-->
+
+<!-- 🌙 Night View -->
+<!--
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="800"/>
+</p>
+-->
+
+<!-- 🍃 Green Animate -->
+<!--
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="800"/>
+</p>
+-->
+
+<!-- 🌸 Season (Northern Hemisphere) -->
+<!--
+<p align="center">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="800"/>
+</p>
+-->
+
+<!-- 🌎 Season (Southern Hemisphere) -->
+<!--
+<p align="center">
+  <img src="./profile-3d-contrib/profile-south-season-animate.svg" width="800"/>
+</p>
+-->
+
+<!-- 🧱 Git Block -->
+<!--
+<p align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="800"/>
+</p>
+-->
+
 
 ## 🌟 Quote Inspiratif
 
