@@ -1,8 +1,14 @@
-<!-- Banner -->
+<!-- ===================== -->
+<!--       HEADER         -->
+<!-- ===================== -->
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Rifa%20Amril%20Sahputra&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&width=600&lines=Fullstack+Developer+%7C+AI+Enthusiast;Building+Web+%26+Mobile+Apps;Exploring+Artificial+Intelligence;Code+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&width=600&lines=Fullstack+Developer+%7C+AI+Enthusiast;Building+Web+%26+Mobile+Applications;Exploring+Artificial+Intelligence;Code+the+Future+%F0%9F%9A%80" 
+    alt="Typing SVG"
+  />
 </p>
 
 ---
@@ -10,22 +16,25 @@
 # 👋 Halo, Saya **Rifa Amril Sahputra**
 
 💻 **Fullstack Developer & AI Enthusiast**  
-🚀 Berfokus pada pengembangan **Web, Mobile Apps, dan Artificial Intelligence**.  
-🎯 Passion: *Menciptakan solusi digital modern & berdaya guna.*  
-✨ Motto: *Code the Future, Create with Passion, Inspire the World.*  
+🚀 Fokus pada pengembangan **Web, Mobile Applications, dan Artificial Intelligence**  
+🎯 Passion: *Membangun solusi digital modern, scalable, dan berdampak nyata*  
+✨ Motto: *Code the Future, Create with Passion, Inspire the World.*
 
 ---
 
 ## 🧠 Tentang Saya
-- 🌐 Mengembangkan aplikasi **Web** dengan **React & Next.js**  
-- 📱 Membangun aplikasi **Mobile** dengan **Flutter**  
-- 🤖 Menjelajahi dunia **Artificial Intelligence**: Machine Learning, Computer Vision, & NLP  
-- 🎓 Aktif dalam penelitian & kolaborasi di bidang **Teknologi & AI**  
-- 🎨 Suka memadukan **UI/UX** dengan performa optimal  
+
+- 🌐 Mengembangkan **Web Application** menggunakan **React & Next.js**
+- 📱 Membangun **Mobile Application** modern dengan **Flutter**
+- 🤖 Mendalami **Artificial Intelligence**  
+  *(Machine Learning, Computer Vision, Natural Language Processing)*
+- 🎓 Aktif dalam **penelitian, eksplorasi teknologi, dan kolaborasi tim**
+- 🎨 Mengutamakan **UI/UX clean**, performa tinggi, dan maintainable code
 
 ---
 
 ## 🚀 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -38,24 +47,47 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
+---
+
+## 📊 GitHub Contribution 3D
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="800"/>
+</p>
+
+> Visualisasi 3D kontribusi GitHub yang diperbarui otomatis setiap hari menggunakan GitHub Actions.
 
 ---
 
 ## 🌟 Quote Inspiratif
+
 <p align="center">
-  <em>"Artificial Intelligence tidak akan menggantikan manusia, tapi manusia yang menguasai AI akan menggantikan yang tidak." 🚀</em>
+  <em>
+    "Artificial Intelligence tidak akan menggantikan manusia,  
+    tetapi manusia yang menguasai AI akan menggantikan yang tidak." 🚀
+  </em>
 </p>
 
 ---
 
 ## 🌐 Temukan Saya di
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/rifaamrilsahputra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/amrilndp/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:rifaamril2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rifaamrilsahputra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/amrilndp/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:rifaamril2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<!-- Footer -->
+<!-- ===================== -->
+<!--        FOOTER        -->
+<!-- ===================== -->
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer)
